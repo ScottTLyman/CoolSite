@@ -1,0 +1,38 @@
+body{
+  font-family: sans-serif;
+}
+
+h1{
+  font-size: 3em;
+  background-color: #1f4b97;
+  color: white;
+  text-align: center;
+  border: 2px solid black;
+  font-weight: normal;
+  padding: .25em;
+}
+
+h2{
+  font-size: 2em;
+  text-align: center;
+  border-top: 12px solid rgb(172, 201, 255);
+  font-weight: normal;
+  padding-top: .25em;
+}
+
+p{
+  text-align: justify;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.d-flex{
+  display: flex;
+}
+
+.photo{
+  height: 200px;
+  
+}
